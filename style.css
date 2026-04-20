@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  font-family: Arial;
+  background: linear-gradient(to right, orange, green);
+  color: white;
+}
+
+button {
+  padding: 10px;
+  border: none;
+  background: white;
+  color: black;
+  cursor: pointer;
+}
